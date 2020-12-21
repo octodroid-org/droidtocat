@@ -1,2 +1,2 @@
 # Droidtocat :octocat:
-<a href="https://ibb.co/7z7thGt"><img src="https://i.ibb.co/cvzhqNh/Screenshot-20201217-114456-1.jpg" alt="Screenshot-20201217-114456-1" border="0"></a>
+<a href="https://ibb.co/yhMQs7b"><img src="https://i.ibb.co/f8Kx0LP/droidtocat.png" alt="droidtocat" border="0"></a>
